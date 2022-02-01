@@ -5,7 +5,7 @@
 #Thanks a lot for this inspiring project Sergio Canu
 
 HSV corresponds to:
-Hue is the color
-Saturation is the greyness
-Value is the brightness
+Hue, is the color
+Saturation, is the greyness
+Value, is the brightness
 
